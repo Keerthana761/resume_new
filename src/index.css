@@ -2,10 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@import "tailwindcss/base";
-/* @layer components; */
-@import "tailwindcss/utilities";
-
 :root {
   --color-light: #ffffff;
   --color-dark: #171717;
